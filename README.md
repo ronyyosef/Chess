@@ -7,4 +7,4 @@ dowlond the RUN_ME folder and click on the chess.exe file
 
 # future update:
 - add castling
-- add more modes
+- add more mods
