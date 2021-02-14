@@ -1,7 +1,7 @@
 # Chess
 Chess game with C++ and SFML for GUI
 
-![Chess_demo (1)](https://user-images.githubusercontent.com/61323123/107888415-badce580-6f14-11eb-9bd1-70e1d9766bd0.gif)
+![Chess_demo (2)](https://user-images.githubusercontent.com/61323123/107888535-7c93f600-6f15-11eb-93eb-c4a6ac2b63f2.gif)
 
 
 
