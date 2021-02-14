@@ -1,12 +1,10 @@
 # Chess
 Chess game with C++ and SFML for GUI
 
-<video controls>
-  <source src="https://user-images.githubusercontent.com/61323123/107888248-b663fd00-6f13-11eb-8a68-e8f00e7990a6.mp4" type="video/mp4">
-</video>
+![caption]https://user-images.githubusercontent.com/61323123/107888248-b663fd00-6f13-11eb-8a68-e8f00e7990a6.mp4
 
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:80%;position:relative;"><iframe width="360" height="288" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4y19mh"></iframe></div><p><a href="https://imgflip.com/gif/4y19mh">via Imgflip</a></p></div>
+
 
 # TO RUN THE CODE
 download the RUN_ME folder and click on the chess.exe file
